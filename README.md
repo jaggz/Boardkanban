@@ -7,24 +7,24 @@
 - Here is the link for the APP Deployed on Render : `https://boardkanban.onrender.com/`
 ## Usage
 - AS User Browse the link given,then The page given below will be presented:
- ![homepage](./assets/images/homepage.png) 
+    ![homepage](./assets/images/homepage.png) 
 - Use the Following Credentials to login into the App as:
 Username:`JollyGuru` Password:`password`.
 
- ![login](./assets/images/login.png) 
+    ![login](./assets/images/login.png) 
 
 - Once Logged In you gona be presented With the following page:
 
- ![board](./assets/images/board.png) 
+    ![board](./assets/images/board.png) 
 
 - As User gona click the new ticket then User would be presented with form related to the ticket Creation as below:
 
-![newTicket](./assets/images/newTicket.png)
+    ![newTicket](./assets/images/newTicket.png)
 
 - Then User can see the ticket added into the KanBan Board.
 - User can edit the ticket by clicking the edit button and change the info for the same Ticket whether it is completed or in-Progress.
 
-![editTicket](./assets/images/editTicket.png)
+    ![editTicket](./assets/images/editTicket.png)
 
 - User can delete the ticket by clicking the delete button for each ticket respectively.
 - once clicked the logout button the User would be logged out of the app.
